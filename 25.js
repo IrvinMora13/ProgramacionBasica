@@ -1,7 +1,7 @@
 //25.- Introducir un número menor de 5000 y pasarlo a numero romano
 function NumeroRomano(numero) {
     if (numero < 1 || numero >= 5000) {
-      return "El numero es demasiado grande o pequeño";
+      return "El numero es demasiado grande o peque";
     }
     const valoresRomanos = [
       ["M", 1000],
