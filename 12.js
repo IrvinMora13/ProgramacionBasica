@@ -16,7 +16,7 @@ function sumaParImpar() {
         }
     }
     console.log("La suma de los numeros par es: ",sumaPar);
-    console.log("La suma de los numeros par es: ",sumaImpar);
+    console.log("La suma de los numeros Impar es: ",sumaImpar);
 }
 
 sumaParImpar()
