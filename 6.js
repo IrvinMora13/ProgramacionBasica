@@ -1,6 +1,6 @@
 /*6.- Hacer un programa que imprima todos los números naturales que hay desde el uno hasta un
 número que introducimos por teclado. 
-Esto fue buscado en internet para encontrar como leer el teclado*/
+Esto fue buscado en internet para encontrar como leer el teclado link= https://es.stackoverflow.com/questions/445091/esperar-respuesta-de-readline-en-un-loop-en-javascript*/
 const readline = require('readline');
 
 const rl = readline.createInterface({
