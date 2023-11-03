@@ -4,9 +4,9 @@ ID, NOMBRE, APELLIDOS, DIRECCIÓN y ESTADO*/
 const fs = require('fs');
 
 const nuevaEntrada = {
-  ID: 1,
+  ID: 7,
   NOMBRE: "Juan",
-  APELLIDOS: "Pérez",
+  APELLIDOS: "Mora",
   DIRECCIÓN: "Calle Principal",
   ESTADO: "Activo",
 };
